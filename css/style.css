@@ -70,3 +70,6 @@ body {
     letter-spacing: 1px;
     padding: 0rem 2.1rem;
 }
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
